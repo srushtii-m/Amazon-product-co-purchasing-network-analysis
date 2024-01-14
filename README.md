@@ -16,4 +16,9 @@ The dataset includes 548,552 different product reviews and product metadata (Boo
 * [Analysis of Network Centrality Metrics](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/tree/1b1c0533d2989fe47f43e3684965f41426e173d6/Centrality%20Metrics)
 * [Product Recommendation](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/tree/1b1c0533d2989fe47f43e3684965f41426e173d6/Product%20Recommendation)
 
-
+## Conclusion
+* The popularity of products can be effectively gauged using metrics like degree centrality and clustering coefficient and a priority queue can be established for marketing, sales, and advertising efforts.
+* Could identify influential products within the amazon's product network through different centrality metrics
+* Implemented Regression models to predict sales rank but it gave low scores implying that, in network scenarios, standard machine learning methods based on probability density estimation tend to underperform.
+* Could build a graph-based product recommendation system, where purchase history, product similarity, and customer feedback are all taken into account to suggest relevant products to customers effectively.
+* The findings from this project could inform strategic decisions for businesses operating in the e-commerce domain.
