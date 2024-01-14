@@ -12,9 +12,8 @@ The motivation behind this project was to analyze vast and complex dataset of Am
 The dataset includes 548,552 different product reviews and product metadata (Books, music CDs, DVDs, and VHS video tapes).
 
 ## Key Components of this Project
-* [Amazon Co-Purchase Network Analysis]
-* [Analysis of Network Centrality Metrics]
-* [Product Recommendation]
-
+* [Amazon Co-Purchase Network Analysis](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/tree/1b1c0533d2989fe47f43e3684965f41426e173d6/Network%20Analysis)
+* [Analysis of Network Centrality Metrics](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/tree/1b1c0533d2989fe47f43e3684965f41426e173d6/Centrality%20Metrics)
+* [Product Recommendation](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/tree/1b1c0533d2989fe47f43e3684965f41426e173d6/Product%20Recommendation)
 
 
