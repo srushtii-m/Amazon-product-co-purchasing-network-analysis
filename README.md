@@ -12,7 +12,9 @@ The motivation behind this project was to analyze vast and complex dataset of Am
 The dataset includes 548,552 different product reviews and product metadata (Books, music CDs, DVDs, and VHS video tapes).
 
 ## Key Components of this Project
-
+* [Amazon Co-Purchase Network Analysis]
+* [Analysis of Network Centrality Metrics]
+* [Product Recommendation]
 
 
 
