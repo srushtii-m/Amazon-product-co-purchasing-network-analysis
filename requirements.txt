@@ -1,0 +1,8 @@
+nltk
+stemming
+numpy
+pandas
+networkx
+matplotlib
+scipy
+sklearn
