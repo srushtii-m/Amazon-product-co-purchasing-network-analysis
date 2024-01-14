@@ -1,3 +1,4 @@
+## Analyzing products using graph centrality metrics
 For identifying and analyzing centrality metrics of the Amazon co-purchasing network, only the DVD subgroup - 19,828 products is considered as the full product network is very large - 548,552 products which is computationally costly.
 
 Centrality metrics for the DVD category:
