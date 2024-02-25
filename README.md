@@ -7,7 +7,7 @@ This project presents a system for analyzing and recommending Amazon products, l
 The motivation behind this project was to analyze vast and complex dataset of Amazon and understand the nuances of consumer behavior and product relationships. The project provided an opportunity to apply network analysis techniques in a real-world context and leverage network theory and data analytics to create a graph-based recommendation system based on user behavior.
 
 ## Data
-![Stanford Large Network Dataset Collection] (https://snap.stanford.edu/data/amazon-meta.html)
+![Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/amazon-meta.html)
 
 The dataset includes 548,552 different product reviews and product metadata (Books, music CDs, DVDs, and VHS video tapes).
 
