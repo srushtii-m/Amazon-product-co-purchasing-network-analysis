@@ -4,7 +4,7 @@ This project presents a system for analyzing and recommending Amazon products, l
 ![image](https://github.com/srushtii-m/Amazon-product-co-purchasing-network-analysis/assets/146901085/459b1225-6cc9-4094-aecf-f94bbea83779)
 
 ## Motivation
-The motivation behind this project was to analyze vast and complex dataset of Amazon and understand the nuances of consumer behavior and product relationships. The project provided an opportunity to apply network analysis techniques in a real-world context and leverage network theory and data analytics to create a graph-based recommendation system based on user behavior.
+The motivation behind this project was to analyze the vast and complex dataset of Amazon and understand the nuances of consumer behavior and product relationships. The project provided an opportunity to apply network analysis techniques in a real-world context and leverage network theory and data analytics to create a graph-based recommendation system based on user behavior.
 
 ## Data
 [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/amazon-meta.html)
